@@ -5,6 +5,15 @@ Anggota Kelompok:
 - Laksita Ayudia Nurislami (25523182)
 - Fathin Nishrina Nurul Aulya (25523256)
 - Fina Nailatul 'Izzah (25523264)
+  
+## Pembagian Kontribusi
+
+| Anggota | Kontribusi |
+|---|---|
+| Laksita Ayudia Nurislami (25523182) | Bagian B (B1–B8): pengerjaan Logistic Regression |
+| Fathin Nishrina Nurul Aulya (25523256) | Bagian A, tahap A1–A4: deskripsi dataset, eksplorasi dan visualisasi, preprocessing, dan pemilihan fitur Linear Regression |
+| Fina Nailatul 'Izzah (25523264) | Bagian A, tahap A5–A8: pembagian data, pemodelan, evaluasi, dan analisis performa Linear Regression |---|---|
+| Seluruh anggota | Penyusunan README |
 
 # Bagian A: Linear Regression
 ## A1. Deskripsi Dataset
